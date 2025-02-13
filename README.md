@@ -17,7 +17,7 @@ This is a **Password Generator** app built with React that allows users to creat
 
 - **React**: For building the user interface.
 - **useState, useEffect, useCallback, useRef Hooks**: For managing state, side effects, and references.
-- **CSS**: For styling the app with basic classes.
+- **Tailwind CSS**: For styling the app with basic classes.
 
 ## Code Explanation
 
